@@ -18,7 +18,7 @@ You can test the project using following example requests.
 
 # Steps to Import:
 
-1. Download the Postman collection [here](./).
+1. Download the Postman collection (./HTMS.postman_collection.json).
 2. Open Postman and go to the Collections tab.
 3. Click on "Import" and select the downloaded file.
 4. The collection will be added to your Postman workspace.
